@@ -6,7 +6,7 @@ This application uses [Express.js](https://expressjs.com/) and [Sendgrid](https:
 
 ## Configuration
 
-Asuming your already have an account to SendGrid, create your API Key and assign it as an Environment Variable:
+Assuming your already have an account to SendGrid, create your API Key and assign it as an Environment Variable:
 `SENDGRID_API_KEY`
 
 ## Run the server
